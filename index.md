@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1> In APP Web Client - 61.8 MIAW CLIENT</h1>
+<h1> In APP Web Client - CISCO MIAW CLIENT</h1>
 <script type='text/javascript'>
 	function initEmbeddedMessaging() {
 		try {
