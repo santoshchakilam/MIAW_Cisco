@@ -1,7 +1,4 @@
 <html>
-<head>
-	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1"/>
-</head>	
 <body>
 <h1> In APP Web Client - CISCO MIAW CLIENT</h1>
 <script type='text/javascript'>
@@ -22,7 +19,5 @@
 	};
 </script>
 <script type='text/javascript' src='https://ciscosales.perf2r.pc-rnd.force.com/ESWasaagent1741676347571/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
-
-
 </body>
 </html>
